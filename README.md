@@ -5,6 +5,9 @@ RolandBerger Profiler（罗兰贝格消费者价值元素分布图）
 
 图像揭示不同消费者的消费价值。
 
+![profiler example](https://raw.github.com/jdk137/RolandBergerProfiler/master/RolandBergerProfiler.png)
+
+
 -，抑制消费的元素；
 
 +，促进消费的元素；
