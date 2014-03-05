@@ -1,6 +1,8 @@
 RolandBerger Profiler（罗兰贝格消费者价值元素分布图）
 ==
 
+Javascript component to draw RolandBerger Profiler by using canvas and svg, depends on d3.js and jquery.
+
 罗兰贝格消费者价值元素分布图
 
 图像揭示不同消费者的消费价值。
